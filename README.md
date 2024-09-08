@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mrigaank Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigaanksh&label=Profile%20views&color=0e75b6&style=flat" alt="mrigaanksh" /> </p>
+
 - 🔭 I’m currently working on **face liveness detection**
 
 - 🌱 I’m currently learning **Dsa,tensorflow.js.....**
@@ -13,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mrigaank sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrigaank sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrigaank-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrigaank-sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/mrigaanksh0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrigaanksh0001" height="30" width="40" /></a>
 </p>
 
@@ -25,8 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrigaanksh&show_icons=true&locale=en" alt="mrigaanksh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrigaanksh&" alt="mrigaanksh" /></p>
-
-<!---
-MRIGAANKSh/MRIGAANKSh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
