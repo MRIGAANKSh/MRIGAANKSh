@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigaanksh&label=Profile%20views&color=0e75b6&style=flat" alt="mrigaanksh" /> </p>
 
-- 🔭 I’m currently working on **face liveness detection**
+- 🔭 I’m currently working on **ScholarStation** https://github.com/mrigaankzoro/ScholarStation
 
 - 🌱 I’m currently learning **Dsa,tensorflow.js.....**
 
