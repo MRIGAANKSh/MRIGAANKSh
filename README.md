@@ -34,3 +34,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrigaanksh&show_icons=true&locale=en" alt="mrigaanksh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrigaanksh&" alt="mrigaanksh" /></p>
+
+<p align="center" >
+  <img align="top" src="https://leetcard.jacoblin.cool/mrigaank2402?theme=light&font=Nunito&ext=heatmap" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=mrigaank0024" alt="GFG stats"/>
+</p>
+ 
