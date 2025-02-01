@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrigaanksh&show_icons=true&locale=en" alt="mrigaanksh" /></p>
 
-<p><img src="https://streak-stats.demolab.com/?user=mrigaanksh&theme=dark)](https://git.io/streak-stats" alt="mrigaanksh"/></p>
+
 
 <p align="center" >
   <img align="top" src="https://leetcard.jacoblin.cool/mrigaank2402?theme=light&font=Nunito&ext=heatmap" />
