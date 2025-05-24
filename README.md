@@ -50,3 +50,12 @@
 </p>
 
  
+## ☕ Buy Me a Coffee
+
+<p align="center">
+  <b>If you love my work, just UPI me a coffee!</b><br/><br/>
+  <img src="qr.jpg" alt="UPI QR" width="200"/>
+</p>
+
+
+## 👋 SEE YAA...
