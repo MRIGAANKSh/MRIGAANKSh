@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrigaank Sharma</h1>
-<h3 align="center">A FULL STACK DEVELOPER,AIML ENTHUSIAST</h3>
+<h3 align="center">A FULL STACK DEVELOPER+AIML ENTHUSIAST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigaanksh&label=Profile%20views&color=0e75b6&style=flat" alt="mrigaanksh" /> </p>
 
