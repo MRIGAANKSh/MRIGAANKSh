@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigaanksh&label=Profile%20views&color=0e75b6&style=flat" alt="mrigaanksh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrigaanksh&theme=radical" alt="mrigaanksh" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrigaanksh&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
 
 
 - [![An image of @mrigaanksh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrigaanksh)](https://holopin.io/@mrigaanksh)
@@ -116,12 +118,20 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrigaanksh&show_icons=true&locale=en&layout=compact&theme=radical" alt="mrigaanksh" /></p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrigaanksh&show_icons=true&locale=en&theme=radical" alt="mrigaanksh" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MRIGAANKSh&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRIGAANKSh&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" height="200"/>
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrigaanksh&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRIGAANKSh&theme=highcontrast&hide_border=false" alt="GitHub Streak"/>
 </p>
+
+
 
 <p align="center">
  
