@@ -102,12 +102,18 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
-  <a href="https://github.com/hwchase17/langchain" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/favicon.ico" alt="langchain" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
-  </a>
+  <!-- Java -->
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+</a>
+
+
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrigaanksh&show_icons=true&locale=en&layout=compact&theme=radical" alt="mrigaanksh" /></p>
