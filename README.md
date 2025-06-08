@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mrigaank-sharma" target="_blank">
+  <a href="https://www.linkedin.com/in/mrigaank-sharma-955357295/?originalSubdomain=in" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="30" />
   </a>
   <a href="https://instagram.com/mrigaanksh0001" target="_blank">
