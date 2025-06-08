@@ -112,15 +112,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 </a>
 
-<!-- LangChain -->
-<a href="https://github.com/langchain-ai/langchain" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/logo.png" alt="langchain" width="40" height="40"/>
-</a>
 
-<!-- OpenAI -->
-<a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40"/>
-</a>
 
 </p>
 
